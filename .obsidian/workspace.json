@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Location (Default).md",
+                "file": "NPCs/Adventurer Guy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Location (Default).md"
+                "file": "NPCs/Adventurer Guy.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Location (Default).md",
+                "file": "NPCs/Adventurer Guy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Location (Default).md",
+                "file": "NPCs/Adventurer Guy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,14 +174,15 @@
   },
   "active": "9de68bd524aa511f",
   "lastOpenFiles": [
-    "templates/Location (Skill Challenge).md",
     "templates/NPC.md",
+    "NPCs/Adventurer Guy.md",
+    "templates/Faction.md",
+    "templates/Deity.md",
+    "templates/Location (Skill Challenge).md",
+    "templates/Location (Default).md",
     "Locations/Sothis/Untitled.md",
     "Locations/Sothis",
     "Rules/Navigation Skill Challenges.md",
-    "templates/Location (Default).md",
-    "templates/Faction.md",
-    "templates/Deity.md",
     "templates",
     "Rules",
     "Religion",
@@ -208,7 +209,6 @@
     "Factions/Church of Rhiannon.md",
     "Religion/Rhiannon.md",
     "Religion/Cethe.md",
-    "NPCs/Aerinn/Captain Aidan.md",
     "NPCs/Rocheste"
   ]
 }
