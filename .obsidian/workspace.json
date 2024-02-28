@@ -11,8 +11,13 @@
             "id": "9de68bd524aa511f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/Location (Default).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/Location (Default).md"
+              }
             }
           },
           {
@@ -126,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Location (Default).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/Location (Default).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +174,23 @@
   },
   "active": "9de68bd524aa511f",
   "lastOpenFiles": [
+    "templates/Location (Skill Challenge).md",
+    "templates/NPC.md",
+    "Locations/Sothis/Untitled.md",
+    "Locations/Sothis",
+    "Rules/Navigation Skill Challenges.md",
+    "templates/Location (Default).md",
+    "templates/Faction.md",
+    "templates/Deity.md",
+    "templates",
+    "Rules",
+    "Religion",
+    "NPCs",
+    "Lore",
+    "Locations",
+    "Factions",
     "Dashboards/👨‍👩‍👧‍👦NPC Dashboard.md",
+    "Dashboards",
     "NPCs/Aerinn/Alastair.md",
     "NPCs/Aerinn/Aislinn.md",
     "Lore/Neven System.md",
@@ -184,22 +209,6 @@
     "Religion/Rhiannon.md",
     "Religion/Cethe.md",
     "NPCs/Aerinn/Captain Aidan.md",
-    "Factions/The Sidhe.md",
-    "NPCs/Aerinn/Réne.md",
-    "NPCs/Hakim.md",
-    "NPCs/Rocheste/Untitled.md",
-    "NPCs/Arthyen.md",
-    "NPCs/Anton Niazi.md",
-    "NPCs/Rocheste",
-    "NPCs/Aerinn/Alicia.md",
-    "Lore",
-    "obsidian-ttrpgs",
-    "NPCs/Aerinn",
-    "NPCs/Church",
-    "Rules",
-    "Dashboards",
-    "NPCs/Flavian-Tarathor",
-    "Religion",
-    "Factions"
+    "NPCs/Rocheste"
   ]
 }
