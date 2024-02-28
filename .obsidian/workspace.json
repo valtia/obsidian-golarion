@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "8a01ad1d503ab036",
+    "type": "split",
+    "children": [
+      {
+        "id": "13aa5baa01b54d10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de68bd524aa511f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1aae5b254c2d9b44",
+    "type": "split",
+    "children": [
+      {
+        "id": "4402900098e31495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aea3f9e7a3345e33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d11073204599ba90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cddf96b47317c32c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efeadf550da4f74f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0de90927d24ac4bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9e0d3eebc56d4b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9a3703069daf55a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "10ab691b549f88cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "422b52df96cc404d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bf68178b315d71a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e22d7d2b9c53d23f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eaa9411189330d02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 696.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "9de68bd524aa511f",
+  "lastOpenFiles": [
+    "Dashboards/👨‍👩‍👧‍👦NPC Dashboard.md",
+    "NPCs/Aerinn/Alastair.md",
+    "NPCs/Aerinn/Aislinn.md",
+    "Lore/Neven System.md",
+    "Locations/Taratha.md",
+    "Locations/Ortel Castle.md",
+    "Locations/Obsidian Tower of Taratha.md",
+    "Locations/Cendriane.md",
+    "Locations/Callaern.md",
+    "Locations/Annwyn.md",
+    "Locations/Aerinn.md",
+    "Factions/Will of the Rose.md",
+    "Factions/Royal Army of Taratha.md",
+    "Factions/Pontiff's Court.md",
+    "Factions/Crimson Blades.md",
+    "Factions/Church of Rhiannon.md",
+    "Religion/Rhiannon.md",
+    "Religion/Cethe.md",
+    "NPCs/Aerinn/Captain Aidan.md",
+    "Factions/The Sidhe.md",
+    "NPCs/Aerinn/Réne.md",
+    "NPCs/Hakim.md",
+    "NPCs/Rocheste/Untitled.md",
+    "NPCs/Arthyen.md",
+    "NPCs/Anton Niazi.md",
+    "NPCs/Rocheste",
+    "NPCs/Aerinn/Alicia.md",
+    "Lore",
+    "obsidian-ttrpgs",
+    "NPCs/Aerinn",
+    "NPCs/Church",
+    "Rules",
+    "Dashboards",
+    "NPCs/Flavian-Tarathor",
+    "Religion",
+    "Factions"
+  ]
+}

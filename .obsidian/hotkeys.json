@@ -1,0 +1,11 @@
+{
+  "editor:follow-link": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Enter"
+    }
+  ]
+}
